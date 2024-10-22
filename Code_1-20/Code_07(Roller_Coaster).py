@@ -1,3 +1,7 @@
+# Write a program to check roller coaster fare based on height and age
+# If height is below 120 cm, it should not allow to ride
+# If age is below 12 then fare is $5, if age is between 12-18 then fare is $7 and above 18 then fare is $12
+# If a person want a photo while riding extra charge is $3
 print("Welcome to roller coaster.")
 your_bill = 0
 your_height = float(input("Enter your height (in cm) : "))

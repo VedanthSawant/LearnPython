@@ -1,3 +1,9 @@
+# Write a code for treasure hunt
+# First you encounter a cross road. If you go right you will fall into a hole otherwise continue
+# Then you will come across a lake. If you try to swim across, you are dead.
+# Lastly you are at the island with 3 doors i.e. red, blue and yellow
+
+
 print('''
 *******************************************************************************
           |                   |                  |                     |

@@ -1,3 +1,5 @@
+# Write a code for stone, paper and scissor game
+
 import random
 import MyModule
 images = [MyModule.Rock, MyModule.Paper, MyModule.Scissor]

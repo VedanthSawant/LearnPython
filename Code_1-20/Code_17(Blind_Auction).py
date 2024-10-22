@@ -1,3 +1,7 @@
+# Write a code for blind auction.
+# User need to type their name and bid amount. Next bidder will not ne able to see previous bids. At the end of auction
+# highest bidder wins the auction
+
 import MyModule
 print(MyModule.hammer_logo)
 continue_YN = True

@@ -1,3 +1,6 @@
+# Write a program for number guessing game.
+# First computer will generate a random number and user need to guess this number.
+
 import MyModule, random
 
 def playGame(life_left):

@@ -1,3 +1,11 @@
-number = 4.34567
-rounded_number = round(number, 2)  # Round to 2 decimal places
-print(f"Rounded to 2 decimal places: {rounded_number}")
+class Car:
+    def __init__(self):
+        self.seats = 5
+
+    def enter_race_mode(self):
+        self.seats = 2
+
+obj = Car()
+print(obj.seats)
+obj.enter_race_mode()
+print(obj.seats)

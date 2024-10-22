@@ -1,3 +1,4 @@
+# Write a program to calculate how much each person should pay at restaurant
 print("Welcome to tip calculator")
 total_bill = float(input("What was the total bill? $"))
 total_tip = float(input("How much tip would you ike to give? 10, 12 or 15? "))
